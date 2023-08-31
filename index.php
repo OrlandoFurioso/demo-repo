@@ -6,6 +6,7 @@
     <title>Document</title>
 </head>
 <body>
+    <h1>Add title 1</h1>
     <p>This is a test file.</p> 
 </body>
 </html>
